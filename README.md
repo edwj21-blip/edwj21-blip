@@ -111,7 +111,7 @@ My personal portfolio website, live on Vercel.
 <td colspan="3" valign="top">
 
 ### 🤖 JARVIS Phone Control Center <sub>(in progress)</sub>
-Personal AI desktop agent that controls an Android phone over ADB, with screen mirroring, a safe file manager, WhatsApp assistance and voice commands. Runs fully locally and never bypasses the lock screen.
+Personal AI desktop agent with voice and text commands. It controls an Android phone over ADB (screen mirroring, safe file manager, WhatsApp assistance), opens approved desktop applications on Windows, handles system controls (diagnostics, volume, screenshots, lock) and does web search and academic lookups. Runs fully locally and never bypasses the lock screen.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
