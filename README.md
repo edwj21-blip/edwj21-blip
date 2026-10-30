@@ -11,10 +11,6 @@
 
 <br/><br/>
 
-<img src="assets/terminal.svg" alt="Terminal intro card" width="720"/>
-
-<br/>
-
 <img src="https://komarev.com/ghpvc/?username=edwj21-blip&label=Profile+Views&color=2F81F7&style=flat-square" alt="Profile views"/>
 
 </div>
