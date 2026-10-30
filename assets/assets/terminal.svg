@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="250" viewBox="0 0 820 250" role="img" aria-label="Terminal card introducing Edwin Joseph">
+  <rect width="820" height="250" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <rect width="820" height="38" rx="12" fill="#161b22"/>
+  <rect y="26" width="820" height="12" fill="#161b22"/>
+  <circle cx="24" cy="19" r="6" fill="#ff5f56"/>
+  <circle cx="46" cy="19" r="6" fill="#ffbd2e"/>
+  <circle cx="68" cy="19" r="6" fill="#27c93f"/>
+  <text x="410" y="24" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="13" fill="#8b949e">edwin@portfolio: ~</text>
+
+  <g font-family="Consolas, Menlo, monospace" font-size="16">
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="0.4s" dur="0.3s" fill="freeze"/>
+      <text x="28" y="78" fill="#3fb950">$ <tspan fill="#e6edf3">whoami</tspan></text>
+      <text x="48" y="100" fill="#58a6ff">Edwin Joseph</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="1.3s" dur="0.3s" fill="freeze"/>
+      <text x="28" y="130" fill="#3fb950">$ <tspan fill="#e6edf3">cat role.txt</tspan></text>
+      <text x="48" y="152" fill="#58a6ff">Python &amp; Django Developer | ML Enthusiast</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="2.2s" dur="0.3s" fill="freeze"/>
+      <text x="28" y="182" fill="#3fb950">$ <tspan fill="#e6edf3">cat status.txt</tspan></text>
+      <text x="48" y="204" fill="#58a6ff">Open to internships and entry-level roles</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="3.1s" dur="0.3s" fill="freeze"/>
+      <text x="28" y="234" fill="#3fb950">$ </text>
+      <rect x="44" y="221" width="9" height="16" fill="#e6edf3">
+        <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+</svg>
