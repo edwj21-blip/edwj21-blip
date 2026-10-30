@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Edwin Joseph, Python and Django Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="55%" stop-color="#14204a"/>
+      <stop offset="100%" stop-color="#0b4f6c"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2f81f7"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="260" rx="14" fill="url(#bg)"/>
+
+  <g opacity="0.35">
+    <circle cx="140" cy="60" r="70" fill="#2f81f7">
+      <animate attributeName="cy" values="60;90;60" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1040" cy="200" r="90" fill="#22d3ee">
+      <animate attributeName="cy" values="200;165;200" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="880" cy="50" r="40" fill="#8b5cf6">
+      <animate attributeName="cx" values="880;930;880" dur="8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" text-anchor="middle">
+    <text x="600" y="112" font-size="58" font-weight="700" fill="#ffffff">Edwin Joseph
+      <animate attributeName="opacity" from="0" to="1" dur="1.2s" fill="freeze"/>
+    </text>
+    <text x="600" y="158" font-size="24" fill="#cbd5e1">Python &amp; Django Developer  |  Machine Learning Enthusiast
+      <animate attributeName="opacity" from="0" to="1" begin="0.6s" dur="1.2s" fill="freeze"/>
+    </text>
+    <rect x="450" y="182" width="0" height="4" rx="2" fill="url(#line)">
+      <animate attributeName="width" from="0" to="300" begin="1s" dur="1.4s" fill="freeze"/>
+    </rect>
+    <text x="600" y="224" font-size="16" fill="#94a3b8" font-family="Consolas, Menlo, monospace">Alappuzha, Kerala, India  ·  Open to internships and entry-level roles
+      <animate attributeName="opacity" from="0" to="1" begin="1.6s" dur="1s" fill="freeze"/>
+    </text>
+  </g>
+</svg>
